@@ -17,8 +17,8 @@ Did I say there was a dungeon?
 
 ## To Do
 
-[ ] Create a basic deungeon map that is procedurally generated  
-[ ] Place the player and add player movement  
+[x] Create a basic deungeon map that is procedurally generated  
+[x] Place the player and add player movement  
 [ ] Spawn monsters, and add unit collision  
 [ ] Add Health and a combat system that uses it  
 [ ] Add healing potions  
